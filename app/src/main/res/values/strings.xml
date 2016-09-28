@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Dayang Shipyard</string>
+    <string name="company_name">Name:</string>
+    <string name="dayang_name">Yangzhou Dayang Shipbuilding Co.,Ltd</string>
+    <string name="company_address">Address:</string>
+    <string name="dayang_address">XinBa ShenWang Village, LiDian Town, GuangLing Area, YangZhou, JiangSu , P.R. China,
+225107
+</string>
+    <string name="company_telephone">Telephone:</string>
+    <string name="dayang_telephone">0086–0514–89789141</string>
+    <string name="company_overview">Overview:</string>
+    <string name="dayang_overview">Yangzhou Dayang Shipbuilding Co. Ltd. is a Sino foreign joint venture young and vibrant, with strategic positioning, Pacific shipbuilding group prospective super international market operation ability, rigorous and pragmatic management style, the pursuit of the ultimate challenge, excellence, just a few years to achieve leapfrog development. In the 2007 year, the total amount of the ship was tenth in the whole country.</string>
+</resources>
